@@ -4,12 +4,12 @@ from fastapi.staticfiles import StaticFiles
 from .logger import log_request
 import os
 
-from app.utils import (
+from .utils import (
     download_audio,
     transcribe_audio_with_cache,
     extract_video_id,
 )
-from app.summarize import (
+from .summarize import (
     gpt_summary,
     load_summary_from_cache,
     save_summary_to_cache,

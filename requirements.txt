@@ -151,7 +151,7 @@ terminado==0.9.4
 textblob==0.17.1
 textsearch==0.0.24
 thop==0.1.1.post2209072238
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+
 tifffile==2020.10.1
 tokenizers==0.20.3
 tomlkit==0.12.0

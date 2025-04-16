@@ -1,6 +1,5 @@
 absl-py==1.0.0
 aiofiles==23.2.1
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 ale-py==0.8.1
 anaconda-clean @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_be20dd64-61dd-41d9-bf38-a84695fe69507hs6olkf/croots/recipe/anaconda-clean_1652723729651/work
 anaconda-client==1.7.2

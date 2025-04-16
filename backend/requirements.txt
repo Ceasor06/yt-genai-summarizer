@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+google-generativeai==0.3.2
+openai-whisper
+torch
+yt-dlp
+python-dotenv

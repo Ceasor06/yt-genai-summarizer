@@ -1,0 +1,5 @@
+YouTube URL,Select Output Type,"Language (e.g., en, hi, fr)",Download Format,output,flag,username,timestamp
+,both,en,both,,,,2025-04-01 21:17:11.066804
+https://www.youtube.com/watch?v=MpN1j8R5lZ8&list=RDMpN1j8R5lZ8&start_radio=1,summary,en,pdf,,,,2025-04-01 21:37:28.719759
+https://www.youtube.com/watch?v=MpN1j8R5lZ8&list=RDMpN1j8R5lZ8&start_radio=1,summary,en,pdf,,,,2025-04-02 00:05:24.209374
+https://www.youtube.com/watch?v=D7SViDWl7cI,both,en,pdf,❌ Error: 500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/summarize/,,,2025-04-02 00:48:22.901947

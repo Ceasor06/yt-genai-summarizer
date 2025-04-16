@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Form
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
-from app.logger import log_request
+from .logger import log_request
 import os
 
 from app.utils import (

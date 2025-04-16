@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-whisper
+git+https://github.com/openai/whisper.git
 yt-dlp
 ffmpy
 pydub
